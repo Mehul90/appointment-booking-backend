@@ -1,0 +1,10 @@
+App\Entity\Participant:
+    attributes:
+        id:
+            groups: ['api']
+        name:
+            groups: ['api']
+        email:
+            groups: ['api']
+        appointments:
+            groups: ['api'] 

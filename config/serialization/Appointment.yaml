@@ -1,0 +1,12 @@
+App\Entity\Appointment:
+    attributes:
+        id:
+            groups: ['api']
+        title:
+            groups: ['api']
+        startTime:
+            groups: ['api']
+        endTime:
+            groups: ['api']
+        participants:
+            groups: ['api'] 
